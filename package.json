@@ -1,0 +1,24 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "Material das aulas Técnicas de Programação \r # Nome: Gabrielle Silva Lima de Jesus\r # RGM: 7226075903\r # Semestre: 3k",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielle08/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Gabrielle Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielle08/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/Gabrielle08/Tecnicas-Programacao#readme"
+}
